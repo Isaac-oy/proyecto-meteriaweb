@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.widget{
+  width: 40%;
+  margin: 10px;
+}
+.widget p{
+  display: inline-block;
+  line-height:10px;
+   color:#F2FCF9;
+}
+.fecha{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size:16px;
+  margin-bottom: 5px;
+  padding:20px;
+}
+.reloj{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size:40px;
+  margin-bottom: 5px;
+  padding:20px;
+}
